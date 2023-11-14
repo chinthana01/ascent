@@ -1,2 +1,3 @@
 # ascent
-assignment
+assignment 
+thuis is the first assignment
